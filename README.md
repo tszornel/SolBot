@@ -1,6 +1,4 @@
 <<<<<<< HEAD
-# SOLANA COPY TRADER BOT - starting bal 631
-
 
 # HOW TO USE
 1. main.py
@@ -56,8 +54,3 @@
     - checks pnl_close
     - enters new positions
 
-now, implement your strategy and be careful. this will all go to zero when solana stops trending.
-=======
-# SolBot
-Sol bot 
->>>>>>> 9ce17b3b8ec0c4f2e790e63e17a9b404d91f3d49
